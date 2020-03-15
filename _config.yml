@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:                 https://twitter.com/Sudarsh07847591
-  username               : &twitter "Sudarsh07847591"
+twitter:                 
+  username               : https://twitter.com/Sudarsh07847591
 facebook:
   username               :
   app_id                 :
